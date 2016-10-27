@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/escenaPrueba.unity
+  isLoaded: 1
+  isActive: 1
